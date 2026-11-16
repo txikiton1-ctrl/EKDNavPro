@@ -4,7 +4,7 @@ Versión de pruebas de la aplicación Android. No es una versión final.
 
 ## Descargar e instalar
 
-[Descargar EKDNavPro 1.0 (APK)](./EKDNavPro-1.0.apk)
+[Descargar EKDNavPro 1.0 (APK)](https://github.com/txikiton1-ctrl/EKDNavPro/raw/refs/heads/main/EKDNavPro-1.0.apk)
 
 Android puede pedir permiso para instalar aplicaciones desde el navegador o el gestor de archivos. Revisa los permisos y concede ubicación precisa y notificaciones al iniciar la navegación.
 
@@ -18,6 +18,6 @@ Los segmentos descargados aparecen en la carpeta Descargas de Android. El cálcu
 
 ## Código fuente
 
-[Descargar el proyecto Android y sus fuentes](./EKDNavPro-1.0-source.zip)
+[Descargar el proyecto Android y sus fuentes](https://github.com/txikiton1-ctrl/EKDNavPro/raw/refs/heads/main/EKDNavPro-1.0-source.zip)
 
 Para compilar, sigue las instrucciones de `ANDROID.md` dentro del archivo de fuentes.
